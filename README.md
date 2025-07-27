@@ -1,0 +1,1 @@
+# AgriSarthi-GenAI-Powered-Crop-Disease-Detection-and-Smart-Recommendation-System
